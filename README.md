@@ -1,16 +1,13 @@
-# music_player_app_ui
+# Music Player UI App | Android e iOS
 
-A new Flutter project.
+Music Player UI com animação em Flutter!
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+none
 
-A few resources to get you started if this is your first Flutter project:
+### Music Player UI usando Flutter | UI Final
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Mobile
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="musicplayer01.png" height="700em" /><img src="musicplayer02.png" height="700em" />
